@@ -18,6 +18,7 @@ The Quiz Application is a Java-based project following MVC architecture that all
 - **PostgreSQL**: PostgreSQL is used as the relational database for storing quiz questions and quiz data.
 - **Maven**: Maven is the build automation tool used for managing project dependencies and building the application.
 - **RESTful API**: The project exposes RESTful endpoints for creating, managing, and taking quizzes.
+- **Postman**: Postman is used to test and interact with the RESTful API endpoints.
 
 ## Project Structure
 This project applied MVC architecture
